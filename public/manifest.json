@@ -1,0 +1,21 @@
+{
+  "short_name": "PWA",
+  "name": "Progressive Web App",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-104x104.png",
+      "sizes": "104x104",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-104x104.png",
+      "sizes": "104x104",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}

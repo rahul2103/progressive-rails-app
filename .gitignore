@@ -29,3 +29,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# database.yml
+/config/database.yml
+
+# It's compiled by webpack.
+/public/service-worker.js*

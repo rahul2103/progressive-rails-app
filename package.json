@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webpacker-pwa": "^0.1.2"
+  }
+}
